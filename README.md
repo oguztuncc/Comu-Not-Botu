@@ -1,2 +1,4 @@
-# Çomü Not Botu
- UBYS sisteminden not çekmek için Selenium tabanlı bot
+# UBYS Not Kontrol Botu
+
+Bu proje, ÇOMÜ UBYS sisteminden not bilgilerini otomatik olarak çekmek için Selenium kullanır.
+ 
